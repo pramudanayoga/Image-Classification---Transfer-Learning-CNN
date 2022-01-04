@@ -5,9 +5,9 @@ This is the sample result of classification using CNN Transfer Learning (mobilen
 
 This is the adaption phase accuracy score:
 
-![2](https://user-images.githubusercontent.com/94972058/148013286-a4900575-aaf5-4aea-90a8-b0b61755c5a7.png) 
+![7](https://user-images.githubusercontent.com/94972058/148014285-ff48e5d0-1aaa-479f-87d3-313f1359b0c0.jpg)
 
 
 And this is the fine tuning phase accuracy score:
 
-![4](https://user-images.githubusercontent.com/94972058/148013297-2e1bc4b8-3777-401f-ba44-4612838fdbb6.png)
+![8](https://user-images.githubusercontent.com/94972058/148014299-ef59994c-04d4-47eb-a2a5-51daad3ded6f.jpg)
