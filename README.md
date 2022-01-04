@@ -1,6 +1,6 @@
 This is the sample result of classification using CNN Transfer Learning (mobilenet v2) got 92.55% accuracy:
 
-![5](https://user-images.githubusercontent.com/94972058/148012824-72b89506-7156-4ea9-a972-32c0db8b8678.png)
+![6](https://user-images.githubusercontent.com/94972058/148014100-9710f84b-ac97-4e11-9756-c1c99757b499.jpg)
 
 
 This is the adaption phase accuracy score:
